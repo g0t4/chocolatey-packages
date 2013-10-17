@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Octave</id>
+    <version>3.2.4</version>
+    <title>Octave (Install)</title>
+    <authors>John W. Eaton</authors>
+    <owners>John W. Eaton</owners>
+    <licenseUrl>http://www.gnu.org/software/octave/</licenseUrl>
+    <projectUrl>http://www.gnu.org/software/octave/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Octave Copyright © 1998-2013 John W. Eaton. Verbatim copying and distribution is permitted in any medium, provided this notice is preserved.</description>
+    <summary>Octave</summary>
+    <releaseNotes />
+    <copyright />
+    <tags>RubyMine</tags>
+  </metadata>
+</package>
